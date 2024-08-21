@@ -2,18 +2,20 @@
 
 
 Olá! Eu sou **Iago Almeida**, desenvolvedor apaixonado por Tecnologia.  
-Aqui você pode conferir meus projetos mais recentes e contribuições para a comunidade. Sinta-se à vontade para explorar e conectar-se!
+Aqui você pode conferir meus projetos mais recentes e contribuições para a comunidade.  
+Sinta-se à vontade para explorar e conectar-se!
 
 
-🌱 Estudante Desenvolvimento de Software Multiplataforma
+- 🌱 Atualmente apredendo React, typescript e flutter(Dart)
+- 🏫 Cursando desenvolvimento de software multiplataforma - Fatec Itapira
 
 ### GitHub Stats
 
 <a href="https://github.com/Iagooalmeida">
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=Iagooalmeida&theme=dracula&show_icons=true&hide=issues" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Iagooalmeida&theme=dracula&show_icons=true&hide=issues" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Iagooalmeida&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+<a href="https://github.com/Iagooalmeida">
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Iagooalmeida&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
 
 ### 
