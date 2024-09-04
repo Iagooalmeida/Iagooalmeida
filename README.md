@@ -6,7 +6,7 @@ Aqui você pode conferir meus projetos mais recentes e contribuições para a co
 Sinta-se à vontade para explorar e conectar-se!
 
 
-- 🌱 Atualmente apredendo Laravel e flutter(Dart)
+- 🌱 Atualmente aprendendo Laravel e flutter(Dart)
 - 🏫 Cursando desenvolvimento de software multiplataforma - Fatec Itapira
 
 ### GitHub Stats
